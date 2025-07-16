@@ -1,14 +1,18 @@
-## Hello! I'm Tanish Rastogi!
+# Hello! I'm Tanish Rastogi!
 
 I'm **Tanish**, a passionate developer who loves Math and integrating it into Computer Science. I love learning new things and developing software to better the world!
 
 ## About Me
 
-I'm a software developer with a focus on web and software applications. I have a deep interest in AI and machine learning, and I enjoy learning about any new technology!
+I'm a high school student developer with a focus on web and software applications. I have a deep interest in AI and machine learning, and I enjoy learning about any new technology!
 
 ## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,css,js,java,sklearn,raspberrypi,opencv,firebase)](https://skillicons.dev)
+### AI and ML
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn&perline=8)](https://skillicons.dev)
+### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flask,firebase&perline=8)](https://skillicons.dev)
+### Object-Oriented
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,raspberrypi,arduino&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
