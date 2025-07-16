@@ -1,17 +1,17 @@
-## Hi there 👋
-[![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=codertanish)](https://github.com/anuraghazra/github-readme-stats)
+## Hello! I'm Tanish Rastogi!
 
-<!--
-**codertanish/codertanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tanish**, a passionate developer who loves Math and integrating it into Computer Science. I love learning new things and developing software to better the world!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer with a focus on web and software applications. I have a deep interest in AI and machine learning, and I enjoy learning about any new technology!
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,html,css,js,java,sklearn,raspberrypi,opencv,firebase)](https://skillicons.dev)
+
+## Top Projects
+
+- [MNIST-Neural-Network](https://github.com/codertanish/MNIST-Neural-Network) - This is neural network built using PyTorch on the FashionMNIST and MNIST Datasets. ⭐ 0 | Language: Jupyter Notebook
+- [Sentiment-Awareness-App](https://github.com/codertanish/Sentiment-Awareness-App) - This app utilizes Streamlit for UI/Frontend Development as well as utilizes a BERT Model along with BlenderBot from Facebook. ⭐ 0 | Language: Python
+- [SchedulerPoweredByAI](https://github.com/codertanish/SchedulerPoweredByAI) - A scheduling application powered by AI. ⭐ 0 | Language: Python
