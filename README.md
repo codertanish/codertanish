@@ -4,7 +4,7 @@ I'm **Tanish**, a passionate developer who loves Math and integrating it into Co
 
 ## About Me
 
-I'm a high school student developer with a focus on web and software applications. I have a deep interest in AI and machine learning, and I enjoy learning about any new technology!
+I'm a high school student developer with a focus on web and software applications. I have a deep interest in AI and machine learning, and I enjoy learning about any new technology! Reach out to me at tanishrastogi2020@gmail.com.
 
 ## Skills & Technologies
 ### AI and ML
