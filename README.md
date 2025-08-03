@@ -10,7 +10,7 @@ I'm a high school student developer with a focus on web and software application
 ### AI and ML
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv&perline=8)](https://skillicons.dev)
 ### Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flask,firebase&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,flask,firebase&perline=8)](https://skillicons.dev)
 ### Object-Oriented
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,raspberrypi,arduino,ros&perline=8)](https://skillicons.dev)
 
