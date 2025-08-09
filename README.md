@@ -18,4 +18,4 @@ I'm a high school student developer with a focus on web and software application
 
 - [MNIST-Neural-Network](https://github.com/codertanish/MNIST-Neural-Network) - This is neural network built using PyTorch on the FashionMNIST and MNIST Datasets. ⭐ 0 | Language: Jupyter Notebook
 - [Sentiment-Awareness-App](https://github.com/codertanish/Sentiment-Awareness-App) - This app utilizes Streamlit for UI/Frontend Development as well as utilizes a BERT Model along with BlenderBot from Facebook. ⭐ 0 | Language: Python
-- [AppliRemind]([https://github.com/codertanish/SchedulerPoweredByAI](https://github.com/codertanish/AppliRemind)) - An email reminder platform for precollege/academic program and competition deadlines. ⭐ 1 | Languages: HTML, CSS (Tailwind), and JavaScript (and Node.js)
+- [AppliRemind](https://github.com/codertanish/SchedulerPoweredByAI](https://github.com/codertanish/AppliRemind)) - An email reminder platform for precollege/academic program and competition deadlines. ⭐ 1 | Languages: HTML, CSS (Tailwind), and JavaScript (and Node.js)
